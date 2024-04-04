@@ -1,15 +1,15 @@
 ### Hi there 👋
-I'm Sofía Gurruchaga, advanced Computer Science student @ FCEN, UBA, Argentina. 
+I'm Sofía Gurruchaga, an advanced Computer Science student at FCEN, UBA, Argentina.
 
-I love learning more and more about computers and its wonders. 
+I love learning more and more about computers and their wonders.
 
-When I was 3 years old I played my first videogame, it taught numbers and letters (Matemáticas con Pipo running on Win 98); now I code with those numbers and letters. 
+When I was 3 years old, I played my first video game; it taught numbers and letters (Matemáticas con Pipo running on Win 98). Now I code with those numbers and letters.
 
-I like solving challenges as those in programming contests. 
+I like solving challenges like those in programming contests.
 
-Also liked all the Algorithms & Data Structers I learnt in college. I love sortings algorithms such as Quick Sort.   
+I also enjoyed learning all the Algorithms & Data Structures in college. I love sorting algorithms such as Quick Sort.
 
-My contact info is on my LinkedIn profile, it should be somewhere in this page. You can reach me there for collaborations or discussions. 
+My contact info is on my LinkedIn profile, it should be somewhere on this page. You can reach me there for collaborations or discussions.
 
 Thanks for stopping by and have a great day!
 <!--
