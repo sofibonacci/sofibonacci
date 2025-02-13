@@ -1,28 +1,13 @@
-### Hi there 👋
-I'm Sofía Gurruchaga, an advanced Computer Science student at FCEN, UBA, Argentina.
+## Hi there! 👋  
 
-I love learning more and more about computers and their wonders.
+I'm **Sofía Gurruchaga**, an:  
+🚀 **Infrastructure Developer** at JPMorgan Chase  
+🎓 **Advanced Computer Science Grad Student** at FCEN, UBA (Argentina)  
+☁️ **AWS Certified Cloud Practitioner**  
 
-When I was 3 years old, I played my first video game; it taught numbers and letters (Matemáticas con Pipo running on Win 98). Now I code with those numbers and letters.
+### About Me  
+I enjoy coding in various languages, including **C++**, **Python**, and **Smalltalk**. Most of my public repositories are coding exercises from college or personal projects where I experiment with different technologies.   
 
-I like solving challenges like those in programming contests.
+📬 You can reach me through my LinkedIn (should be somewhere on this page). I'm open to collaborations, discussions, or just geeking out over tech.  
 
-I also enjoyed learning all the Algorithms & Data Structures in college. I love sorting algorithms such as Quick Sort.
-
-My contact info is on my LinkedIn profile, it should be somewhere on this page. You can reach me there for collaborations or discussions.
-
-Thanks for stopping by and have a great day!
-<!--
-**sofibonacci/sofibonacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by—have a great day! 🚀  
