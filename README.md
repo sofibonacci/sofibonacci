@@ -1,7 +1,7 @@
 ## Hi there! 👋  
 
-I'm **Sofía Gurruchaga**, an:  
-🚀 **Infrastructure Developer** at JPMorgan Chase  
+I'm **Sofía Gurruchaga**, a:  
+🚀 **Software Engineer** at JPMorgan Chase  
 🎓 **Advanced Computer Science BSc + MSc Student** at FCEN, UBA (Argentina)  
 ☁️ **AWS Certified Cloud Practitioner**  
 
